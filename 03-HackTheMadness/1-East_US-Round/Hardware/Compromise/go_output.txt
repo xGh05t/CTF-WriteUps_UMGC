@@ -1,0 +1,57 @@
+[*] 154.57.164.76:30560
+[+] pymodbus found
+
+  [pymodbus unit=1]
+    coil 65: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 64: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 68: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 67: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 53: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 45: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+
+  [write fix unit=1]
+    cutoff OFF: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    manualmode OFF: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    WT1 start ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    MIX start ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    force_start_out ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+
+  [pymodbus unit=2]
+    coil 65: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 64: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 68: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 67: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 53: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 45: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+
+  [write fix unit=2]
+    cutoff OFF: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    manualmode OFF: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    WT1 start ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    MIX start ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    force_start_out ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+
+  [pymodbus unit=255]
+    coil 65: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 64: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 68: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 67: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 53: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+    coil 45: ModbusClientMixin.read_coils() got an unexpected keyword argument 'slave'
+
+  [write fix unit=255]
+    cutoff OFF: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    manualmode OFF: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    WT1 start ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    MIX start ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+    force_start_out ON: ModbusClientMixin.write_coil() got an unexpected keyword argument 'unit'
+
+=======================================================
+ RAW: read exact PDF coil addresses
+=======================================================
+
+[!!!] GOT RESPONSE: TCP unit=1 FC01 coil 65  (WT1 high_sensor=ON?)
+      hex : 5b2a5d20456e746572696e6720696e746572616374697665206d6f6465205b50726573732022482220666f7220617661696c61626c6520636f6d6d616e64735d0a636d643e205b215d204e6f7420612076616c6964206f7074696f6e0a
+      text: 'ing interactive mode [Press "H" for available commands]\ncmd> [!] Not a valid option\n'
+      regs: [26990, 26400, 26990, 29797, 29281, 25460, 26998, 25888, 28015, 25701, 8283, 20594, 25971, 29472, 8776, 8736, 26223, 29216, 24950, 24937]
+      char: ..........................................

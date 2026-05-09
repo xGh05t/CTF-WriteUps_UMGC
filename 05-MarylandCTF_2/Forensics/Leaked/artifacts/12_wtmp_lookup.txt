@@ -1,0 +1,3 @@
+Inode Number                  Inode File Path
+---------------- ------------------ ---------
+          397013 0xffff96f7347ba770 /var/log/wtmp

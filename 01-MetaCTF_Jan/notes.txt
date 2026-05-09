@@ -1,0 +1,14 @@
+2026-01-22 16:58:31 EST -- START TIME
+# MetaCTF January 2026 Flash CTF
+--------------------------------------
+
+// WhiteNight
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Forensics Investigation Challenge
+
+[1/5]: The attacker created an account to maintain access to the victim system. When was this account created? Format: HH:MM:SS (UTC)
+
+[2/5]:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+

@@ -1,0 +1,12 @@
+# Questions & Answers
+
+Q1: What is the name of the initial malicious process?
+	Acrobat32_reader.exe	
+Q2: What is the attacker's IP and protocol used for the connection?
+	13.60.193.87_TCP
+Q3: What is the name of the new process the attacker migrated to?
+	Explorer.EXE
+Q4: What is the name of the variable that stores the final base64 payload in the persistence mechanism?
+	rw
+Q5: What is the PID of the process created by the attacker to execute system commands?
+	3404

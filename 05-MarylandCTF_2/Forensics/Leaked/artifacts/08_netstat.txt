@@ -1,0 +1,149 @@
+UNIX 13652              systemd/1     /run/systemd/notify
+UNIX 13653              systemd/1     
+UNIX 13654              systemd/1     
+UNIX 13655              systemd/1     /run/systemd/private
+UNIX 13665              systemd/1     /run/systemd/journal/dev-log
+UNIX 13667              systemd/1     /run/lvm/lvmetad.socket
+UNIX 13670              systemd/1     /run/systemd/journal/syslog
+UNIX 13678              systemd/1     /run/lvm/lvmpolld.socket
+UNIX 13680              systemd/1     /run/udev/control
+UNIX 13683              systemd/1     /run/systemd/fsck.progress
+UNIX 13685              systemd/1     /run/systemd/journal/stdout
+UNIX 13687              systemd/1     /run/systemd/journal/socket
+UNIX 14457              systemd/1     
+UNIX 14528              systemd/1     /run/systemd/journal/stdout
+UNIX 14656              systemd/1     /run/systemd/journal/stdout
+UNIX 22798              systemd/1     /run/systemd/journal/stdout
+UNIX 16764              systemd/1     /run/systemd/journal/stdout
+UNIX 15874              systemd/1     
+UNIX 15875              systemd/1     
+UNIX 16894              systemd/1     /run/systemd/journal/stdout
+UNIX 17342              systemd/1     /var/lib/lxd/unix.socket
+UNIX 16040              systemd/1     /run/systemd/journal/stdout
+UNIX 17395              systemd/1     
+UNIX 17396              systemd/1     /run/snapd.socket
+UNIX 17398              systemd/1     /run/snapd-snap.socket
+UNIX 17418              systemd/1     /run/acpid.socket
+UNIX 17430              systemd/1     /var/run/dbus/system_bus_socket
+UNIX 17434              systemd/1     /run/uuidd/request
+UNIX 18796              systemd/1     
+UNIX 17628              systemd/1     /run/systemd/journal/stdout
+UNIX 19626              systemd/1     /run/systemd/journal/stdout
+UNIX 18287              systemd/1     /run/systemd/journal/stdout
+UNIX 19810              systemd/1     /run/systemd/journal/stdout
+UNIX 18467              systemd/1     /run/systemd/journal/stdout
+UNIX 18794              systemd/1     /run/systemd/journal/stdout
+UNIX 18795              systemd/1     /run/systemd/journal/stdout
+UNIX 19363              systemd/1     /run/systemd/journal/stdout
+UNIX 13665      systemd-journal/423   /run/systemd/journal/dev-log
+UNIX 13685      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 13687      systemd-journal/423   /run/systemd/journal/socket
+UNIX 14314      systemd-journal/423   
+UNIX 22798      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 16764      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 16894      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 16040      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 17628      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 14528      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 14656      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 18287      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 19626      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 19363      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 18467      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 18794      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 18795      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 19810      systemd-journal/423   /run/systemd/journal/stdout
+UNIX 14527        systemd-udevd/438   
+UNIX 14527        systemd-udevd/438   
+UNIX 13680        systemd-udevd/438   /run/udev/control
+UNIX 14875        systemd-udevd/438   
+UNIX 14879        systemd-udevd/438   
+UNIX 14880        systemd-udevd/438   
+UNIX 14655              lvmetad/440   
+UNIX 14655              lvmetad/440   
+UNIX 13667              lvmetad/440   /run/lvm/lvmetad.socket
+UNIX 16039      systemd-timesyn/631   
+UNIX 16039      systemd-timesyn/631   
+UNIX 16112      systemd-timesyn/631   
+UNIX 16115      systemd-timesyn/631   
+UNIX 16116      systemd-timesyn/631   
+UNIX 16117      systemd-timesyn/631   
+UNIX 16118      systemd-timesyn/631   
+UNIX 16759      systemd-network/738   
+UNIX 16759      systemd-network/738   
+UNIX 16795      systemd-network/738   
+UNIX 16802      systemd-network/738   
+UNIX 16803      systemd-network/738   
+UNIX 16804      systemd-network/738   
+UNIX 16805      systemd-network/738   
+UDP      192.168.1.5     :   68 0.0.0.0         :    0                   systemd-network/738  
+UDP      fe80::a00:27ff:fe3f:7a8c:  546 ::              :    0                   systemd-network/738  
+UNIX 17432      systemd-network/738   
+UNIX 16893      systemd-resolve/750   
+UNIX 16893      systemd-resolve/750   
+UNIX 16996      systemd-resolve/750   
+UDP      127.0.0.53      :   53 0.0.0.0         :    0                   systemd-resolve/750  
+TCP      127.0.0.53      :   53 0.0.0.0         :    0 LISTEN            systemd-resolve/750  
+UNIX 17433      systemd-resolve/750   
+UNIX 17625      accounts-daemon/834   
+UNIX 17625      accounts-daemon/834   
+UNIX 18110      accounts-daemon/834   
+UNIX 18200      networkd-dispat/862   
+UNIX 18200      networkd-dispat/862   
+UNIX 20115      networkd-dispat/862   
+UNIX 18463       systemd-logind/879   
+UNIX 18463       systemd-logind/879   
+UNIX 18826       systemd-logind/879   
+UNIX 18832       systemd-logind/879   
+UNIX 13670             rsyslogd/881   /run/systemd/journal/syslog
+UNIX 18804             rsyslogd/881   
+UNIX 18715                lxcfs/882   
+UNIX 18715                lxcfs/882   
+UNIX 18792          dbus-daemon/883   
+UNIX 18792          dbus-daemon/883   
+UNIX 17430          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 18963          dbus-daemon/883   
+UNIX 18964          dbus-daemon/883   
+UNIX 18965          dbus-daemon/883   
+UNIX 18966          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 18967          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 18968          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 18969          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 18970          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 20040          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 20116          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 20268          dbus-daemon/883   /var/run/dbus/system_bus_socket
+UNIX 19357                 cron/952   
+UNIX 19357                 cron/952   
+UNIX 19527                 sshd/964   
+UNIX 19527                 sshd/964   
+TCP      0.0.0.0         :   22 0.0.0.0         :    0 LISTEN                       sshd/964  
+TCP      ::              :   22 ::              :    0 LISTEN                       sshd/964  
+UNIX 20039              polkitd/965   
+UNIX 19717      unattended-upgr/966   
+UNIX 19717      unattended-upgr/966   
+UNIX 20267      unattended-upgr/966   
+TCP      192.168.1.5     :   22 192.168.1.30    :57274 ESTABLISHED                  sshd/1161 
+UNIX 22678                 sshd/1161  
+UNIX 23038                 sshd/1161  
+UNIX 22776              systemd/1363  
+UNIX 22776              systemd/1363  
+UNIX 22788              systemd/1363  
+UNIX 22820              systemd/1363  /run/user/1000/systemd/notify
+UNIX 22821              systemd/1363  
+UNIX 22822              systemd/1363  
+UNIX 22823              systemd/1363  /run/user/1000/systemd/private
+UNIX 22827              systemd/1363  /run/user/1000/bus
+UNIX 22828              systemd/1363  /run/user/1000/gnupg/S.gpg-agent.browser
+UNIX 22829              systemd/1363  /run/user/1000/gnupg/S.gpg-agent.extra
+UNIX 22830              systemd/1363  /run/user/1000/gnupg/S.dirmngr
+UNIX 22831              systemd/1363  /run/user/1000/snapd-session-agent.socket
+UNIX 22832              systemd/1363  /run/user/1000/gnupg/S.gpg-agent.ssh
+UNIX 22833              systemd/1363  /run/user/1000/gnupg/S.gpg-agent
+UNIX 22776             (sd-pam)/1364  
+UNIX 22776             (sd-pam)/1364  
+UNIX 22783             (sd-pam)/1364  
+TCP      192.168.1.5     :   22 192.168.1.30    :57274 ESTABLISHED                  sshd/1439 
+UNIX 22678                 sshd/1439  
+UNIX 23037                 sshd/1439  
+TCP      192.168.1.5     :39112 77.74.198.52    : 4444 ESTABLISHED             jN8ziHXGE/1521 

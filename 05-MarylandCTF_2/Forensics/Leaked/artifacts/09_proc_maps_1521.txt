@@ -1,0 +1,7 @@
+Offset             Pid      Name                 Start              End                Flags               Pgoff Major  Minor  Inode      File Path
+------------------ -------- -------------------- ------------------ ------------------ ------ ------------------ ------ ------ ---------- ---------
+0xffff96f73853dc00     1521 jN8ziHXGE            0x0000000000400000 0x0000000000401000 rwx                   0x0    253      0     268276 /home/developer/jN8ziHXGE
+0xffff96f73853dc00     1521 jN8ziHXGE            0x00007f0747806000 0x00007f0747807000 rwx                   0x0      0      0          0 
+0xffff96f73853dc00     1521 jN8ziHXGE            0x00007fffda168000 0x00007fffda189000 rwx                   0x0      0      0          0 [stack]
+0xffff96f73853dc00     1521 jN8ziHXGE            0x00007fffda1e2000 0x00007fffda1e5000 r--                   0x0      0      0          0 
+0xffff96f73853dc00     1521 jN8ziHXGE            0x00007fffda1e5000 0x00007fffda1e7000 r-x                   0x0      0      0          0 [vdso]

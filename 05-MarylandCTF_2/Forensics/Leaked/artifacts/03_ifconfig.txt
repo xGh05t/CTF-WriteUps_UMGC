@@ -1,0 +1,4 @@
+Interface        IP Address           MAC Address        Promiscous Mode
+---------------- -------------------- ------------------ ---------------
+lo               127.0.0.1            00:00:00:00:00:00  False          
+enp0s3           192.168.1.5          08:00:27:3f:7a:8c  False          

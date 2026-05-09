@@ -1,0 +1,19 @@
+# Questions & Answers
+
+Q1 — File in Downloads with MOTW (Mark-Of-The-Web)
+	utils.img
+
+Q2 — File in Desktop at cluster address 0x38355
+	bioluminescent_report.pdf
+
+Q3 — Timestomped file in Desktop
+	sample_640x426.png
+
+Q4 — First file described in the MFT
+	$MFT
+
+Q5 — Author of the mantra in mantra.txt
+	user189753
+
+Q6 — File in Desktop downloaded from http://files.htb
+	sample_1k-words.pdf
