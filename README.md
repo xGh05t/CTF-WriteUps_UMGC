@@ -10,19 +10,11 @@ Challenges were attempted both solo and as part of a team, covering categories l
 01-MetaCTF_Jan/        MetaCTF — January 2026
 02-LoveBytes_Feb/      LoveBytes CTF — February 2026
 03-HackTheMadness/     Hack The Madness — March 2026
-04-MarylandCTF/        Maryland CTF — April 2026
-05-MarylandCTF_2/      Maryland CTF — May 2026
+04-MarylandCTF/        Maryland HTB CTF — April 2026
+05-MarylandCTF_2/      Maryland HTB CTF — May 2026
 ```
 
 Each folder contains the original challenge artifacts and a `WALKTHROUGH.md` documenting the solution.
-
-## Notes
-
-Some challenge archives are split into multiple parts to stay under GitHub's 100 MB file size limit. To reassemble:
-
-```bash
-cat <filename>.part-* > <filename>
-```
 
 ## Disclaimer
 
